@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+J'écris quelque chose de cool.
+
+ajouter du texte
+>>>>>>> d369d65119ad7abc6bd37686a9a6e451bee51b47
